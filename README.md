@@ -10,6 +10,6 @@ This is a console-based banking application written in core Java. It was built t
 * Exit the application
 
 ## Skills Demonstrated
-* **Core Java:** `Scanner` for user input, `switch` statements, and `while` loops.
+* **Core Java:** 'Scanner' for user input, `switch` statements, and `while` loops.
 * **OOP:** Created an `Account` class to encapsulate data and behavior.
 * **Encapsulation:** Used `private` fields with `public` methods (getters, `deposit`, `withdraw`) to protect data integrity.
